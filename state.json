@@ -1,5 +1,6 @@
 {
   "hyatt": "SOLDOUT",
-  "trip": "SOLDOUT",
-  "updated": "seed"
+  "trip": "AVAILABLE",
+  "updated": "2026-06-10T20:48:59.542909+00:00",
+  "last_alert_iso": "2026-06-10T20:48:59.542909+00:00"
 }
